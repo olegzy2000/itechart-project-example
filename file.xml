@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<LedLamps>
+		<LedLamp>
+			<name>Cree</name>
+			<power>15</power>
+			<ledNumber>10</ledNumber>
+		</LedLamp>
+		<LedLamp>
+			<name>Cree</name>
+			<power>10</power>
+			<ledNumber>20</ledNumber>
+		</LedLamp>
+		<LedLamp>
+			<name>Cree</name>
+			<power>10</power>
+			<ledNumber>15</ledNumber>
+		</LedLamp>
+	</LedLamps>
+	<GlowLamps>
+		<GlowLamp>
+			<name>Casper</name>
+			<power>50</power>
+			<time>10000000</time>
+		</GlowLamp>
+		<GlowLamp>
+			<name>Casper</name>
+			<power>25</power>
+			<time>500000</time>
+		</GlowLamp>
+		<GlowLamp>
+			<name>Casper</name>
+			<power>100</power>
+			<time>10000000</time>
+		</GlowLamp>
+	</GlowLamps>
+</root>
